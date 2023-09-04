@@ -1,9 +1,8 @@
 # LOST.DIR Fixer
 
-Sebenarnya ini cuma untuk rename file JPG, PNG dan TIFF yang ada
-di LOST.DIR. Ada artikel yang bilang kalau LOST.DIR buat ngerec-
-overynya salah satunya dengan rename. Nah ini adalah cara otoma-
-tisnya soalnya kalau manual kan capek.
+Sebenarnya ini cuma untuk rename file JPG, PNG dan TIFF yang ada di LOST.DIR. 
+Ada artikel yang bilang kalau LOST.DIR buat ngerecoverynya salah satunya dengan 
+rename. Nah ini adalah cara otomatisnya soalnya kalau manual kan capek.
 
 Cara kerja:
 
